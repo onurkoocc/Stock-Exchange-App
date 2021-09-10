@@ -1,0 +1,15 @@
+{
+  "short_name": "Borsa App",
+  "name": "Borsa Application",
+  "icons": [
+    {
+      "src": "../src/icons/2x/baseline_paid_black_24dp.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
